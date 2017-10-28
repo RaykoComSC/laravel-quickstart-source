@@ -21,3 +21,4 @@ Homestead.json
 
 # Database files ignore
 dockers/web/db/data/*
+dockers/web/db-test/data/*
